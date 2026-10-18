@@ -1,0 +1,6 @@
+{
+  "name": "شبیه‌ساز آموزش اپراتور گفتینو | Goftino Training Simulator",
+  "description": "سیستم پیشرفته شبیه‌ساز آموزش اپراتورهای پشتیبانی بر اساس رابط کاربری گفتینو با جریان سناریوی واقعی، تایپ هوشمند و ارزیابی تعامل",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
